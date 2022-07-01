@@ -17,8 +17,9 @@ Firewalls inspect all incoming and outgoing traffic and block the traffic origin
 3. Hybrid firewall - This is the combination of packet filtering and proxy firewall where they are connected in series and provides the most security compared to the above methods therefore, it is used in scenarios where user data is extremely important e.g. hospitals.
 
 ## Limitations of firewall
-1. A hacker can spoof the IP address and disguise themselves as originating from a trusted source thus, passing through our firewall undetected and spread malware. - If the attacker is on the same network as the user e.g. a public Wi-Fi then there is nothing to protect the user from an attack unless there is a software firewall installed on the user's device, therefore a physical firewall is unable to protect the user here.
-2. Allowing an exception for different applications in software firewall rules can allow the attacker to send malware directly to the user's device if the trusted application itself has been compromised. Therefore, it is really important to install an antivirus program.
+1. A hacker can spoof the IP address and disguise themselves as originating from a trusted source thus, passing through our firewall undetected and spread malware.
+2. If the attacker is on the same network as the user e.g. a public Wi-Fi then there is nothing to protect the user from an attack unless there is a software firewall installed on the user's device, therefore a physical firewall is unable to protect the user here.
+3. Allowing an exception for different applications in software firewall rules can allow the attacker to send malware directly to the user's device if the trusted application itself has been compromised. Therefore, it is really important to install an antivirus program.
 
 ## Resources used
 * TechTerms's Firewall video playlist https://www.youtube.com/watch?v=eO6QKDL3p1I&list=PLBbU9-SUUCwV7Dpk7GI8QDLu3w54TNAA6
