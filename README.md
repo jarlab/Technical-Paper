@@ -1,5 +1,5 @@
 # Firewalls
-![Illustration of a firewall][[https://www.netstar.co.uk/wp-content/uploads/2014/05/Firewall.jpg | width=100px]]
+![Illustration of a firewall][https://www.netstar.co.uk/wp-content/uploads/2014/05/Firewall.jpg | width=100px]
 
 ## What is a firewall?
 A firewall is a piece of software or a physical device which is used to protect us from threats on the internet. A firewall can be a software installed on your computer or a physical device that sits in between the internet and your network.
