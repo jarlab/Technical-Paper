@@ -4,7 +4,7 @@
 ## What is a firewall?
 A firewall is a piece of software or a physical device which is used to protect us from threats on the internet. A firewall can be a software installed on your computer or a physical device that sits in between the internet and your network.
 
-## Difference between software and physical firewall1. 
+## Difference between software and physical firewall
 1. Since the software firewall is installed on a user's device, it consumes the resources of the host which may make the computer slower, while the physical firewall consumes resources of the separate physical device and won't make the user's computer slower.
 2. A software firewall only protects a single user, whereas a physical firewall can protect an entire network.
 
