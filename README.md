@@ -1,5 +1,5 @@
 # Firewalls
-![Illustration of a firewall](https://www.netstar.co.uk/wp-content/uploads/2014/05/Firewall.jpg)
+![Illustration of a firewall](https://www.netstar.co.uk/wp-content/uploads/2014/05/Firewall.jpg | width=100)
 
 ## What is a firewall?
 A firewall is a piece of software or a physical device which is used to protect us from threats on the internet. A firewall can be a software installed on your computer or a physical device that sits in between the internet and your network.
@@ -20,6 +20,6 @@ Firewalls inspect all incoming and outgoing traffic and block the traffic origin
 1. A hacker can spoof the IP address and disguise themselves as originating from a trusted source thus, passing through our firewall undetected and spread malware. - If the attacker is on the same network as the user e.g. a public Wi-Fi then there is nothing to protect the user from an attack unless there is a software firewall installed on the user's device, therefore a physical firewall is unable to protect the user here.
 2. Allowing an exception for different applications in software firewall rules can allow the attacker to send malware directly to the user's device if the trusted application itself has been compromised. Therefore, it is really important to install an antivirus program.
 
-# Resources used
+## Resources used
 * TechTerms's Firewall video playlist https://www.youtube.com/watch?v=eO6QKDL3p1I&list=PLBbU9-SUUCwV7Dpk7GI8QDLu3w54TNAA6
 * Firewall image from https://www.netstar.co.uk
